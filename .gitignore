@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+node_modules/
+.env
+.env.*
+*.pem
+*.key
+*.log
+runtime/
+work/
+outputs/
+playwright-report/
+test-results/
+.auth/
+.DS_Store
